@@ -7,5 +7,6 @@ public class Class1 {
 
     public static void main(String[] args) {
         System.out.println("This is the example of first check in");
+		System.out.println("This is the example of second check in");
     }
 }
